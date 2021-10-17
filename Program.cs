@@ -1,12 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace MyFirstApp
 {
-    class Program
+    class MyClass
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+
     }
 }
